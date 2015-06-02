@@ -3,7 +3,7 @@ var a1 = 0;
 function f1() {
     a2 = window.open(a4, '_blank', 'location=yes,height=40,width=60,left=90,scrollbars=yes,status=yes');
     a3 = window.open(a5, '_blank', 'location=yes,height=40,width=60,left=1500,scrollbars=yes,status=yes');
-    var a = setTimeout(f3, 1500);
+    var a = setTimeout(f3, 3000);
     a1++
 }
 
